@@ -92,7 +92,7 @@ body {
 .banner-container {
     max-width: 100vw;
     height: 100vh;
-    background: url(/imagem/background-01.jpg);
+    background: url(../imagem/background-01.jpg);
     background-size: cover;
     background-position: bottom;
     display: flex;
